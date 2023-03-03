@@ -5,3 +5,9 @@ function TaxesData CalulateTaxesData(DataClient dataClient)
 {
     return new TaxesData();
 }
+
+
+function TaxesData CalulateTaxesData2(DataClient dataClient)
+{
+    return new TaxesData();
+}
