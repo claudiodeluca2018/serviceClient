@@ -9,3 +9,8 @@ function clientStruct getDataClient(IdentifierClient idClient)
     ProcessService proccesService = getClientProccess();
     TaxesData taxesData = proccesService.CalulateTaxesData(dataClient);
 }
+
+function clientStruct getDataClient2(IdentifierClient idClient)
+{
+   return ner clientStruct();
+}
