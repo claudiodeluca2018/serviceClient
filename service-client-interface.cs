@@ -14,3 +14,8 @@ function clientStruct getDataClient2(IdentifierClient idClient)
 {
    return ner clientStruct();
 }
+
+function clientStruct getDataClient3(IdentifierClient idClient)
+{
+   return ner clientStruct();
+}
