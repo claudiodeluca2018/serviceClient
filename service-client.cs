@@ -4,3 +4,8 @@ function DataClient getClientData(IdentifierClient idClient)
 {
    return new DataClient();
 }
+
+function DataClient getClientData2(IdentifierClient idClient)
+{
+   return new DataClient();
+}
