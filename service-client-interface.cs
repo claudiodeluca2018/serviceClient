@@ -17,3 +17,7 @@ function clientStruct getDataClient2(IdentifierClient idClient)
 
 
 //comentario para que aparezca el merge relacionado funcion 3
+function clientStruct getDataClient3(IdentifierClient idClient)
+{
+   return ner clientStruct();
+}

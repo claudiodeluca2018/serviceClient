@@ -13,3 +13,7 @@ function TaxesData CalulateTaxesData2(DataClient dataClient)
 }
 
 //comentario para que aparezca el merge relacionado funcion 3
+function TaxesData CalulateTaxesData3(DataClient dataClient)
+{
+    return new TaxesData();
+}
