@@ -11,3 +11,8 @@ function TaxesData CalulateTaxesData2(DataClient dataClient)
 {
     return new TaxesData();
 }
+
+function TaxesData CalulateTaxesData3(DataClient dataClient)
+{
+    return new TaxesData();
+}
